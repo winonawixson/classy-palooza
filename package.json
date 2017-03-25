@@ -1,0 +1,25 @@
+{
+  "name": "classy-palooza",
+  "version": "1.0.0",
+  "description": "Exporing node and mongodb in this random example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-classy-palooza"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winonawixson/classy-palooza.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Winona Wixson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winonawixson/classy-palooza/issues"
+  },
+  "homepage": "https://github.com/winonawixson/classy-palooza#readme",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
